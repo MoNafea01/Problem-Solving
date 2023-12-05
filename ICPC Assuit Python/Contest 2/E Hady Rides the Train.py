@@ -3,7 +3,7 @@ Hady wants to ride a train. He knows his seat number, but he doesn't know the co
 seats. The train seats are numbered from zero as shown in the figure:
 
 Input
-Only one line containing id (0≤id≤1018) – the seat number.
+Only one line containing id (0≤id≤1018) - the seat number.
 
 Output
 The row and column numbers of the seat.

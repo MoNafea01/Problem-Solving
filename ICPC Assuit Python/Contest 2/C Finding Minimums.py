@@ -22,3 +22,4 @@ if K > 1:
     print(*lst2)
 else:
     print(*lst)
+    
